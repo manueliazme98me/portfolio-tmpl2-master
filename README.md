@@ -18,7 +18,7 @@ This template is designed to showcase:
 ## Project Structure
 
 ```text
-portfolio-tmpl2-master/
+portfolio-tmpl-master/
 ├── documentation/          # Static HTML portfolio demo and assets
 │   ├── index.html
 │   ├── css/
